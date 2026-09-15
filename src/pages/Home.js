@@ -1,4 +1,4 @@
-import { html } from "../../flexible-js/compiler";
+import { html } from "../../flexible-js/compiler.js";
 import { cartItems } from "../main.js";
 
 const data = [
