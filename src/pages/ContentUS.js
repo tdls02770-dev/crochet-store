@@ -1,4 +1,4 @@
-import { html } from "../../flexible-js/compiler";
+import { html } from "../../flexible-js/compiler.js";
 
 export function ContentUS(props) {
   const [firstId, input1] = props.Ref()// first name
