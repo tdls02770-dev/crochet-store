@@ -1,4 +1,4 @@
-import { html } from "../../flexible-js/compiler";
+import { html } from "../../flexible-js/compiler.js";
 export function Alert(){
     return html`
     <h1 class="alert-when-placed">
