@@ -1,4 +1,4 @@
-import { html } from "../../flexible-js/compiler";
+import { html } from "../../flexible-js/compiler.js";
 
 export function Cart(props) {
     // 1. المتغيرات المحلية للخريطة وتتبع الموقع
